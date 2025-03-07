@@ -1,8 +1,8 @@
 /*
-| -------------------------------------------------------------------------------------------
-| Check for Palindrome – Determine if a given string reads the same backward and forward.
-| -------------------------------------------------------------------------------------------
-*/
+ * | -------------------------------------------------------------------------------------------
+ * | Check for Palindrome – Determine if a given string reads the same backward and forward.
+ * | -------------------------------------------------------------------------------------------
+ */
 
 // Function to check a string is palindrom or not
 function palindromString(str) {

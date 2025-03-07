@@ -1,9 +1,9 @@
 /*
-| -------------------------------------------------------------------------
-| FizzBuzz – Print numbers 1 to 100; replace multiples of 3 with "Fizz", 
-| multiples of 5 with "Buzz", and multiples of both with "FizzBuzz".
-|--------------------------------------------------------------------------
-*/
+ * | -------------------------------------------------------------------------
+ * | FizzBuzz – Print numbers 1 to 100; replace multiples of 3 with "Fizz", 
+ * | multiples of 5 with "Buzz", and multiples of both with "FizzBuzz".
+ * |--------------------------------------------------------------------------
+ */
 
 // Function to print numbers 1 to 100
 function printFizzBuzzNumber() {

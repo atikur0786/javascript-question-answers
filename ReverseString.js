@@ -1,8 +1,8 @@
 /*
-| -------------------------------------------------------------------------
-| Reverse a String – Implement a function that reverses a given string.
-|--------------------------------------------------------------------------
-*/
+ * | -------------------------------------------------------------------------
+ * | Reverse a String – Implement a function that reverses a given string.
+ * |--------------------------------------------------------------------------
+ */
 
 // Function to reverse a string
 function reverseAString(str) {
